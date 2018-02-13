@@ -7,7 +7,7 @@ import numpy as np
 from move_base_msgs.msg import *
 from actionlib import SimpleActionClient, GoalStatus
 from geometry_msgs.msg import *
-f = open('/home/serl/Documents/multi_bots/src/waypoints/src/points.txt' , 'w')
+f = open('/home/serl/Documents/multi_bots_v3/src/waypoints/src/points.txt' , 'w')
 count = 0
 
 
